@@ -1,5 +1,5 @@
 # Speechly Expense Tracker
-**Live At**: expe-tracker.netlify.app
+**Live At**: https://expe-tracker.netlify.app
 
 Features:
 - Easy Income and Expense recording
